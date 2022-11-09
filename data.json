@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "title": "Articele one",
+        "author": "Brad Traversy",
+        "body": "This is article one"
+    },
+    {
+        "id": 2,
+        "title": "Articele two",
+        "author": "Brad Traversy",
+        "body": "This is article two"
+    },
+    {
+        "id": 3,
+        "title": "Articele three",
+        "author": "Brad Traversy",
+        "body": "This is article three"
+    }
+]
